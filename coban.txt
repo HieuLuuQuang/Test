@@ -1,0 +1,28 @@
+1. Data type (Các kiểu dữ liệu)
+primitive data type: int, float, double, char... (Kiểu dữ liệu nguyên thủy)
+object data type: Integer... , kiểu tự định nghĩa(KIếu dữ liệu đối tượng)
+- cách chuyển đổi giữa các kiêu giữ liệu: 
+vd: Integer.toString(n)...
+
+2. Collection (Tập hợp)
+- arrray, list, arrayList 
+- set, map, hashset, treeSet, linkedTreeSet, hashMap, treeMap, linkedTreeMap, concurrentHashMap
+- queue, stack, priorityQueue
+
+3. Thread, multi thread (Luồng, các vấn đề đa luồng)
+runnable
+4.class, abstract, interface
+5. try, catch, exception, static
+5.OOP
+- inheritance(Ke thua)
+- encapsulation(bao dong)
+- abstraction (trừu tượng)
+- polymophism(Da hinh)
+
+6.
+overload: Nap chong
+override: ghi de
+
+7. Data structure & algorithm (DSA)
+- time complexity (do phuc tap cua thuat toan) - Big notatiion
+- space complexity: ko gian bo nho
